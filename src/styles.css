@@ -8,4 +8,6 @@
 
   main {
     flex: 1 0 auto;
+    background: rgb(201, 181, 0);
+    color: white;
   }
